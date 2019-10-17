@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1573461212 source:c:\users\hadi\desktop\codes\dfs\main.cpp
+	<iostream>
+	<vector>
+

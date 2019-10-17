@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569259755 source:e:\compitative programming\lightoj factorial sum\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<stack>
+

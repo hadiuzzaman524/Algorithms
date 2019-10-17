@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569167165 source:e:\compitative programming\lightoj\main.cpp
+	<iostream>
+	<algorithm>
+	<stdio.h>
+

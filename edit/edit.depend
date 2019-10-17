@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568297213 source:g:\compitative programming\edit\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+

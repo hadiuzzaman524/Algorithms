@@ -1,0 +1,37 @@
+Case 1:
+http://a.org/
+http://bb.com/
+http://ccc.com/
+http://bb.com/
+http://ccc.com/
+http://dddd.org/
+http://ccc.com/
+http://bb.com/
+http://a.org/
+Case 2:
+http://ls.com/
+http://ungr.org/
+http://ls.com/
+http://eep.net/
+http://qpmx.net/
+http://eep.net/
+http://ai.org/
+http://ukqo.net/
+http://ai.org/
+Case 3:
+Ignored
+http://example.com/
+http://www.lightoj.com/
+Case 4:
+Ignored
+Case 5:
+http://a.com/
+http://b.com/
+http://c.com/
+http://b.com/
+http://a.com/
+http://www.lightoj.com/
+http://d.com/
+Ignored
+Case 6:
+Ignored

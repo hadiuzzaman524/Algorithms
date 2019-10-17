@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569237929 source:e:\compitative programming\dijkstraalg\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

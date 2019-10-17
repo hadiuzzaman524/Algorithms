@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568224115 source:g:\compitative programming\kruskal\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

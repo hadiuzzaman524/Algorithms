@@ -1,0 +1,38 @@
+6
+VISIT http://a.org/
+VISIT http://bb.com/
+VISIT http://ccc.com/
+BACK
+FORWARD
+VISIT http://dddd.org/
+BACK
+BACK
+BACK
+QUIT
+VISIT http://ls.com/
+VISIT http://ungr.org/
+BACK
+VISIT http://eep.net/
+VISIT http://qpmx.net/
+BACK
+VISIT http://ai.org/
+VISIT http://ukqo.net/
+BACK
+QUIT
+BACK
+VISIT http://example.com/
+BACK
+QUIT
+BACK
+QUIT
+VISIT http://a.com/
+VISIT http://b.com/
+VISIT http://c.com/
+BACK
+BACK
+BACK
+VISIT http://d.com/
+FORWARD
+QUIT
+FORWARD
+QUIT

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1569649139 source:e:\compitative programming\paralleogram\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

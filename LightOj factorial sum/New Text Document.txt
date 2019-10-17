@@ -1,0 +1,43 @@
+#include <iostream>
+#include <string>
+#include <algorithm>
+using namespace std;
+
+
+
+int main()
+{
+   // freopen("input.txt","r",stdin);
+   // freopen("output.txt","w",stdout);
+   unsigned long long fact[21];
+    fact[0]=1;
+
+    for(int i=1; i<21; i++)
+    {
+        fact[i]=fact[i-1]*i;
+    }
+    int tes,jaman=0;
+    cin>>tes;
+    while(tes--)
+    {
+       unsigned long long n;
+        cin>>n;
+        string s;
+        for(int i=20; i>=0; i--)
+        {
+            if(fact[i]<=n)
+            {
+                n=n-fact[i];
+                s+="+!"+to_string(i);
+            }
+        }
+
+        reverse(s.begin(), s.end());
+        cout<<"Case "<<++jaman<<": ";
+        if(n==0)
+            cout<< s.substr(0,s.length()-1)<<endl;
+        else
+            cout<< "impossible"<<endl;
+    }
+    return 0;
+}

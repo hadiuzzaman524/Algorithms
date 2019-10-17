@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1569062217 source:e:\compitative programming\discover the web light oj\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<iostream>
+	<stack>
+	<stdio.h>
+
